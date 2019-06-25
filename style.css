@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+     background-color: black;
+     color: white;
+}
+
+div.picture{
+    float: left;
+}
+
+div.info{
+   float: left;
+}
+
+div.contact{
+    float: left;
+}
